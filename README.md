@@ -1,2 +1,3 @@
-# laravel-links
-Laravel Package for LAMP Stack HTTP Links
+# laravel links
+
+laravel package 4 managin & organizin lamp stack https links
